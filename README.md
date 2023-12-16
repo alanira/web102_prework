@@ -25,6 +25,9 @@ Here's a walkthrough of implemented features:
 
 [Video Walkthrough](https://i.imgur.com/eySO1id.gifv)
 
+[![Video Walkthrough](https://i.imgur.com/eySO1id.gifv)](https://i.imgur.com/eySO1id.gifv)
+
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
 <!-- Recommended tools:
