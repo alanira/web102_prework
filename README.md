@@ -15,9 +15,9 @@ The following **required** functionality is completed:
 * [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-The following **optional** features are implemented:
+The following **optional** feature is implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Third Bronze Place Game added to Stats section. 
 
 ## Video Walkthrough
 
@@ -34,7 +34,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+* 1) I am a JavaScript beginner, and I had experience with Java (Intermediate) and C (beginner) languages so it took some time to pick up the new language. Thank you for providing such detailed instructions and teaching essential concepts before the WEB Development course will start in 2024.
+* 2) I tried to pass "games" instead of "GAMES_JSON" to filter and reduce functions that I created using instructions, and it did not work. Later I chose "GAMES_JSON" for filter and reduce functions and it worked perfectly. It looks like we still need to parse json format to get list of objects because there is no auto parsing in JavaScript language for it.
+* 3) Still need more experience with DOM concept to be more comfortable to work with it.     
 
 ## License
 
