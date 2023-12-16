@@ -23,8 +23,7 @@ The following **optional** feature is implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://drive.google.com/file/d/1XmU8trH6HmckBCBhEkyis7du52eDpO3W/view?usp=sharing.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![Video Walkthrough](https://drive.google.com/file/d/1XmU8trH6HmckBCBhEkyis7du52eDpO3W/view?usp=sharing)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
