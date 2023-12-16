@@ -19,13 +19,11 @@ The following **optional** feature is implemented:
 
 * [x] Third Bronze Place Game added to Stats section. 
 
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
 ![Video Walkthrough](https://i.imgur.com/eySO1id.gif)
-
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
